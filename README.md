@@ -45,10 +45,9 @@ INNER JOIN TOP_TEN_REVENUE_GENERATING_FILMS ON FILM_ACTOR.FILM_ID=TOP_TEN_REVENU
 ORDER BY FILM_ID DESC
 LIMIT 10
 	) AS SUBQUERY )
-ORDER BY FILM_ID DESC
+
 
 ![Top Ten Revenue generating Countries](https://github.com/Shubhangi2101/Python-Project/assets/46973898/92a6d609-4c37-4a07-a47a-dbdce51e5b9e)
 
-LIMIT 10
-	) AS SUBQUERY )
+
  
