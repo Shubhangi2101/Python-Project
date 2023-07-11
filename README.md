@@ -20,7 +20,8 @@ inner join payment on Customerandcountry.customer_id=payment.customer_id;
 select sum(amount),country from Revenue_of_countries 
 group by country
 
-![Movie Revenue from Diff Countries](https://github.com/Shubhangi2101/Python-Project/assets/46973898/097d67b3-bd1b-4c05-8082-a2515aee98d9
+
+![Movie Revenue from Diff Countries](https://github.com/Shubhangi2101/Python-Project/assets/46973898/e8d6de20-8514-429b-ba13-0b46fb2ccef9)
 
 
 Query2. 
